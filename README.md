@@ -5,4 +5,4 @@
 #### Check The Releases Tab For The Standalone EXE
 
 
-#### All of our scripts can be found in the Assets/Scripts folder
+#### All of our scripts can be found in the Assets/Scripts folder (The `.cs` files)
