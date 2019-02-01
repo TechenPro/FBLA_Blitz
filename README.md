@@ -1,4 +1,4 @@
-# Accuracy Accounting
+# FBLA Blitz
 
 ### This project was created by students of the Tooele Utah FBLA chapter for the purpose of competing in the 2019 *COMPUTER GAME & SIMULATION PROGRAMMING*
 
