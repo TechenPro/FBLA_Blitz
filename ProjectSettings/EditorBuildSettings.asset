@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 0f309a0e0ea05954489cb89f6fe8c992
+  - enabled: 1
+    path: Assets/Scenes/One Player Trivia.unity
+    guid: 916cf5910804fca48816a828d8fd1ed7
+  - enabled: 1
+    path: Assets/Scenes/One Player Instructions.unity
+    guid: 42a6746e2c299e64a83f41733abe1330
+  - enabled: 1
+    path: Assets/Scenes/Results Screen.unity
+    guid: 0656851e8922b434789ad20ed55e49b2
+  - enabled: 1
+    path: Assets/Scenes/Two Player Instructions.unity
+    guid: 70a6c8af90d81764384da3935fc33317
+  - enabled: 1
+    path: Assets/Scenes/Two Player Trivia.unity
+    guid: 87480fc769703f14fa2fc1b00e7b122a
+  m_configObjects: {}
